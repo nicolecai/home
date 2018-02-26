@@ -1,0 +1,59 @@
+body
+{
+	background-image: url("Pictures/Table Tennis Background.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+img
+{
+	width: 400px;
+	height: 200px;
+}
+/*<-----------------------------Table of Content--------------------------->.*/
+.h
+{
+	font-size: 15pt;
+}
+a:hover
+{
+	color: green;
+}
+.ToC
+{
+	margin-top: 20px;
+  	margin-bottom: 20x;
+	margin-right : 10px;
+	margin-left: 10px;
+	font-size: 17pt; 
+}
+h1
+{
+	text-align : center;
+	font-size: 35pt;
+	font-family: Verdona, Sans-serif;
+	Color: black;
+}
+p
+{
+	margin-top: 20px;
+  	margin-bottom: 20x;
+	margin-right : 200px;
+	margin-left: 200px;
+	text-align : justify;
+	font-size: 13pt;
+}
+h2, h3, h4
+{
+	text-align : center;
+	font-size: 25pt;
+	font-family: Verdona, Sans-serif;
+	Color: black;
+}
+ul
+{
+	text-align : left;
+	font-size: 15pt;
+	font-family: Verdona, Sans-serif;
+	Color: black;
+}
